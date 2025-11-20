@@ -1,9 +1,11 @@
 Sean bienvenidos a mi pagina.
-<img src="c:\Users\LENOVO\Downloads\LOGO.webp" alt="">
+<img src="c:\Users\LENOVO\Downloads\LOGO.webp" alt="png">
     proyecto/
   index.html
   Prueba/
-    <LOGO class="web"></LOGO>.png
+  LOGO.webp.png
+  
+
 
 
 
