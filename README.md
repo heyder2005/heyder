@@ -7,7 +7,7 @@
 </head>
 <body>
     <!-- Logo UNEFA -->
-    <img src=[https://github.com/heyder2005/mi-primer-repositorio/blob/72cb051a024bebde7f41ccd0bbbdf71d62a5b0b0/LOGO.webp](https://www.notilogia.com/wp-content/uploads/2015/06/UNEFA1.jpg) alt="Logo UNEFA">
+    <img src=https://www.notilogia.com/wp-content/uploads/2015/06/UNEFA1.jpg alt="Logo UNEFA">
     <h1>Bienvenidos</h1>
     <h2>UNEFA</h2>
     <p>Esta es mi primera pagina</p>
